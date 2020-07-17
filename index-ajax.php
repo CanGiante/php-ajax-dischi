@@ -35,6 +35,6 @@
       </div>
     </script>
 
-    <script type="text/javascript" src"dist/app.js"></script>
+    <script type="text/javascript" src="dist/app.js"></script>
   </body>
 </html>

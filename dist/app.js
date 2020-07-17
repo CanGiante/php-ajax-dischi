@@ -16105,7 +16105,7 @@ $(document).ready(function () {
 });
 
 function printCds(arrayDb) {
-  var source = $("#entry-template");
+  var source = $("#entry-template").html();
   var template = Handlebars.compile(source);
 
   for (var i = 0; i < arrayDb.length; i++) {
